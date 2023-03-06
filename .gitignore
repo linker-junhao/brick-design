@@ -9,3 +9,4 @@ dist
 lib
 .jest-cache
 coverage
+.history
